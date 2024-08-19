@@ -1,7 +1,7 @@
 # Australian Aged Care Mandatory Quality Indicator Program Dashboard
 Analysed, calculated and presented the quality performance of an aged care provider.
-_
-Download the **Mock Aged Care PBI.pbix** file to view the entire PowerBI report. All data sources are linked to the .csv files in this repository. The "Mock Care Homes" data set is composed of synthetic data created by the repository owner designed to imitate possible real-world data from aged care management and payroll systems._
+
+_Download the **Mock Aged Care PBI.pbix** file to view the entire PowerBI report. All data sources are linked to the .csv files in this repository. The "Mock Care Homes" data set is composed of synthetic data created by the repository owner designed to imitate possible real-world data from aged care management and payroll systems._
 
 ## User Story & Dashboard Requirements
 This user story outlines the specifications for creating a quality indicator performance dashboard using PowerBI to assist the Clinical Manager and upper management to keep track and report on the quality performance of Mock Care Homes.
