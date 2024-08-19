@@ -1,0 +1,54 @@
+﻿Person_ID,Position_Description,Contract_Type,Start_Date,End_Date
+P0000101,Clinical Manager,Permanent Full-Time Salaried,02/01/2023,NULL
+P0000102,Clinical Supervisor,Permanent Full-Time Salaried,02/01/2023,NULL
+P0000103,Assistant-in-Nursing,Permanent Full-Time Salaried,05/01/2023,NULL
+P0000104,Registered Nurse,Permanent Full-Time Salaried,07/01/2023,NULL
+P0000105,Enrolled Nurse,Permanent Full-Time Salaried,07/01/2023,NULL
+P0000106,Assistant-in-Nursing,Permanent Full-Time Salaried,08/01/2023,NULL
+P0000107,Registered Nurse,Permanent Full-Time Salaried,14/01/2023,NULL
+P0000108,Assistant-in-Nursing,Permanent Full-Time Salaried,14/01/2023,NULL
+P0000109,Assistant-in-Nursing,Casual,17/01/2023,08/06/2024
+P0000110,Enrolled Nurse,Permanent Full-Time Salaried,18/01/2023,NULL
+P0000111,Assistant-in-Nursing,Casual,18/01/2023,19/03/2024
+P0000112,Assistant-in-Nursing,Permanent Full-Time Salaried,20/01/2023,NULL
+P0000113,Registered Nurse,Permanent Full-Time Salaried,26/01/2023,NULL
+P0000114,Enrolled Nurse,Permanent Full-Time Salaried,26/01/2023,21/10/2023
+P0000115,Assistant-in-Nursing,Casual,26/01/2023,NULL
+P0000116,Registered Nurse,Permanent Full-Time Salaried,01/02/2023,NULL
+P0000117,Enrolled Nurse,Permanent Full-Time Salaried,06/02/2023,NULL
+P0000118,Registered Nurse,Permanent Full-Time Salaried,12/02/2023,NULL
+P0000119,Assistant-in-Nursing,Permanent Full-Time Salaried,15/02/2023,NULL
+P0000120,Enrolled Nurse,Permanent Full-Time Salaried,18/02/2023,NULL
+P0000121,Assistant-in-Nursing,Casual,20/02/2023,02/06/2024
+P0000122,Assistant-in-Nursing,Casual,21/02/2023,26/01/2024
+P0000123,Registered Nurse,Permanent Full-Time Salaried,26/02/2023,NULL
+P0000124,Assistant-in-Nursing,Casual,10/03/2023,09/10/2023
+P0000125,Registered Nurse,Permanent Full-Time Salaried,20/03/2023,NULL
+P0000126,Enrolled Nurse,Permanent Full-Time Salaried,20/03/2023,NULL
+P0000127,Registered Nurse,Permanent Full-Time Salaried,28/03/2023,NULL
+P0000128,Assistant-in-Nursing,Permanent Full-Time Salaried,28/03/2023,NULL
+P0000129,Enrolled Nurse,Permanent Full-Time Salaried,29/03/2023,NULL
+P0000130,Enrolled Nurse,Permanent Full-Time Salaried,30/03/2023,NULL
+P0000131,Assistant-in-Nursing,Permanent Full-Time Salaried,04/04/2023,NULL
+P0000132,Assistant-in-Nursing,Casual,18/04/2023,20/10/2024
+P0000133,Registered Nurse,Permanent Full-Time Salaried,19/04/2023,13/03/2024
+P0000134,Assistant-in-Nursing,Casual,24/04/2023,18/10/2024
+P0000135,Registered Nurse,Permanent Full-Time Salaried,25/04/2023,25/04/2024
+P0000136,Registered Nurse,Permanent Full-Time Salaried,28/04/2023,NULL
+P0000137,Assistant-in-Nursing,Casual,29/04/2023,NULL
+P0000138,Assistant-in-Nursing,Casual,29/04/2023,06/10/2024
+P0000139,Assistant-in-Nursing,Permanent Full-Time Salaried,14/05/2023,NULL
+P0000140,Assistant-in-Nursing,Casual,15/05/2023,NULL
+P0000141,Registered Nurse,Permanent Full-Time Salaried,22/05/2023,NULL
+P0000142,Assistant-in-Nursing,Permanent Full-Time Salaried,14/06/2023,NULL
+P0000143,Assistant-in-Nursing,Casual,11/10/2023,NULL
+P0000144,Enrolled Nurse,Permanent Full-Time Salaried,22/10/2023,NULL
+P0000145,Assistant-in-Nursing,Casual,27/01/2024,NULL
+P0000146,Registered Nurse,Permanent Full-Time Salaried,15/03/2024,NULL
+P0000147,Assistant-in-Nursing,Casual,25/03/2024,NULL
+P0000148,Registered Nurse,Permanent Full-Time Salaried,26/04/2024,NULL
+P0000149,Assistant-in-Nursing,Casual,03/06/2024,NULL
+P0000150,Assistant-in-Nursing,Casual,15/06/2024,NULL
+P0000151,Assistant-in-Nursing,Casual,10/10/2024,NULL
+P0000152,Assistant-in-Nursing,Casual,19/10/2024,NULL
+P0000153,Assistant-in-Nursing,Casual,24/10/2024,NULL
